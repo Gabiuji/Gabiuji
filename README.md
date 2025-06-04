@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Graduating in Software Engineering
 
-*   🌍  I'm based in Itacoatiara-Amazonas
+*   🌍  I'm based in Manaus-Amazonas
 *   ✉️  You can contact me at [ogabrieliuji@gmail.com])
-*   🧠  I'm learning Django at the moment
-*   ⚡  I'm just a student
+*   🧠  I'm learning Spring boot at the moment
+*   ⚡  I'm currently finishing Software Engineer course
 *   ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,java,kotlin,python,firebase)](https://skillicons.dev)
