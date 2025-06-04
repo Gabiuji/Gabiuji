@@ -6,6 +6,6 @@ Graduating in Software Engineering
 *   🌍  I'm based in Manaus-Amazonas
 *   ✉️  You can contact me at [ogabrieliuji@gmail.com])
 *   🧠  I'm learning Spring boot at the moment
-*   ⚡  I'm currently finishing Software Engineer course
+*   ⚡  I'm finishing Software Engineer course
 *   ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,java,kotlin,python,firebase,django,spring)](https://skillicons.dev)
